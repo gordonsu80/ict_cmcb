@@ -1,7 +1,7 @@
 instructions on upgrading functional test script to support 90001185-106 design
 ================================================================================
 The steps below shall be performed to upgrade functional test script on the ICT
-tester, the version works with 90001185-104 to a new version that works with 
+tester, the version works with 90001185-104, to a new version that works with 
 90001185-106.
 
 
